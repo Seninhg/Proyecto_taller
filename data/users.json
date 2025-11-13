@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "student_code": "2021001",
+        "full_name": "Juan Pérez",
+        "email": "juan@example.com",
+        "password": "$2y$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcg7b3XeKeUxWdeS86E36P4\/gee",
+        "created_at": "2025-11-12",
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "student_code": "2021101257",
+        "full_name": "Sam Lenin Vasquez Requejo",
+        "email": "saml.vasquezre@gmail.com",
+        "password": "$2y$10$ux.Nb4FXEMY15osNKZ0Iyu40y1uXZFSC08z27\/9gz\/9gha2uLoFoe",
+        "created_at": "2025-11-13 02:36:56",
+        "status": "active"
+    },
+    {
+        "id": 3,
+        "student_code": "2021101807",
+        "full_name": "luis rios",
+        "email": "2021101807@ucs.pe",
+        "password": "$2y$10$cIx4edieTFvJ8D8tlh4KJu5TjkjO4pjp8KhVksLOn8TdFcDIP7RKG",
+        "created_at": "2025-11-13 03:59:54",
+        "status": "active"
+    }
+]
